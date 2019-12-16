@@ -1,0 +1,2037 @@
+[
+  {
+    "city": "San Jose",
+    "home_team": {
+      "players": [
+        {
+          "status": "starter",
+          "full": "Daniel Vega",
+          "last": "Vega",
+          "time_played_total": "90",
+          "uniform_number": "17",
+          "stats": {
+            "touches": "51",
+            "stats_soccer_defensive": {
+              "clearances-successful": "3",
+              "saves": "2",
+              "goals-against-total": "1",
+              "catches-punches": "3",
+              "save-percentage": "0.667"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "44",
+              "passes-complete-long": "6",
+              "passes-complete": "36",
+              "passes-incomplete": "8"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "save_percentage": "0.667",
+              "saves": "2",
+              "goals_against_total": "1",
+              "catches_punches": "3",
+              "clearances_successful": "3"
+            },
+            "aerials_won": "2",
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "36",
+              "passes_complete_long": "6",
+              "passes_incomplete": "8",
+              "passes_total": "44"
+            }
+          },
+          "position": "goalkeeper",
+          "first": "Daniel"
+        },
+        {
+          "status": "starter",
+          "full": "Tommy Thompson",
+          "last": "Thompson",
+          "time_played_total": "90",
+          "uniform_number": "22",
+          "stats": {
+            "touches": "82",
+            "stats_soccer_defensive": {
+              "clearances-successful": "1",
+              "goals-against-total": "1",
+              "interceptions": "2"
+            },
+            "stats_soccer_foul": {
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "1",
+              "interceptions": "2",
+              "clearances_successful": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "11",
+              "tackles-total": "2",
+              "passes-total": "59",
+              "tackles-lost": "1",
+              "passes-incomplete": "3",
+              "passes-complete-long": "4",
+              "tackles-won": "1",
+              "passes-complete": "56"
+            },
+            "stats_foul": {
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "tackles_total": "2",
+              "passes_complete": "56",
+              "passes_total": "59",
+              "passes_incomplete": "3",
+              "passes_complete_3rd_final": "11",
+              "passes_complete_long": "4",
+              "tackles_won": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Tommy"
+        },
+        {
+          "status": "starter",
+          "full": "Harold Cummings",
+          "last": "Cummings",
+          "time_played_total": "90",
+          "uniform_number": "31",
+          "stats": {
+            "touches": "92",
+            "stats_soccer_defensive": {
+              "clearances-successful": "5",
+              "goals-against-total": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "1",
+              "tackles-total": "2",
+              "passes-total": "77",
+              "tackles-lost": "1",
+              "passes-incomplete": "10",
+              "passes-complete-long": "6",
+              "tackles-won": "1",
+              "passes-complete": "67"
+            },
+            "stats_soccer_foul": {
+              "fouls-suffered": "2"
+            },
+            "stats_defensive": {
+              "goals_against_total": "1",
+              "clearances_successful": "5"
+            },
+            "aerials_won": "4",
+            "stats_foul": {
+              "fouls_suffered": "2"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "tackles_total": "2",
+              "passes_complete": "67",
+              "passes_total": "77",
+              "passes_incomplete": "10",
+              "passes_complete_3rd_final": "1",
+              "passes_complete_long": "6",
+              "tackles_won": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Harold"
+        },
+        {
+          "status": "starter",
+          "full": "Florian Jungwirth",
+          "last": "Jungwirth",
+          "time_played_total": "90",
+          "uniform_number": "23",
+          "stats": {
+            "touches": "69",
+            "stats_soccer_defensive": {
+              "shots-blocked-cross": "1",
+              "clearances-successful": "7",
+              "goals-against-total": "1",
+              "interceptions": "2",
+              "shots-blocked-outfielder": "1"
+            },
+            "stats_soccer_offensive": {
+              "tackles-total": "1",
+              "passes-total": "54",
+              "tackles-lost": "0",
+              "passes-incomplete": "8",
+              "passes-complete-long": "2",
+              "tackles-won": "1",
+              "passes-complete": "46"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "2",
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "shots_blocked_cross": "1",
+              "shots_blocked_outfielder": "1",
+              "goals_against_total": "1",
+              "interceptions": "2",
+              "clearances_successful": "7"
+            },
+            "aerials_won": "3",
+            "stats_foul": {
+              "fouls_commited": "2",
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "0",
+              "tackles_total": "1",
+              "passes_complete": "46",
+              "passes_total": "54",
+              "passes_incomplete": "8",
+              "passes_complete_long": "2",
+              "tackles_won": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Florian"
+        },
+        {
+          "status": "starter",
+          "full": "Nick Lima",
+          "last": "Lima",
+          "time_played_total": "90",
+          "uniform_number": "24",
+          "stats": {
+            "touches": "78",
+            "stats_soccer_defensive": {
+              "clearances-successful": "2",
+              "goals-against-total": "1",
+              "interceptions": "1",
+              "shots-blocked-outfielder": "2"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "1",
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "2",
+              "goals_against_total": "1",
+              "interceptions": "1",
+              "clearances_successful": "2"
+            },
+            "stats_soccer_offensive": {
+              "crosses-18-yard-plus": "3",
+              "passes-complete-3rd-final": "8",
+              "tackles-total": "1",
+              "passes-total": "51",
+              "tackles-lost": "0",
+              "passes-incomplete": "7",
+              "passes-complete-long": "3",
+              "tackles-won": "1",
+              "passes-complete": "44",
+              "crosses-18-yard": "1"
+            },
+            "stats_foul": {
+              "fouls_commited": "1",
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "0",
+              "tackles_total": "1",
+              "passes_complete": "44",
+              "passes_complete_long": "3",
+              "passes_incomplete": "7",
+              "crosses_18_yard": "1",
+              "passes_complete_3rd_final": "8",
+              "passes_total": "51",
+              "crosses_18_yard_plus": "3",
+              "tackles_won": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Nick"
+        },
+        {
+          "status": "starter",
+          "full": "Jackson Yueill",
+          "last": "Yueill",
+          "time_played_total": "90",
+          "uniform_number": "14",
+          "stats": {
+            "touches": "92",
+            "stats_soccer_defensive": {
+              "clearances-successful": "3",
+              "goals-against-total": "1"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "goals_against_total": "1",
+              "clearances_successful": "3"
+            },
+            "stats_soccer_offensive": {
+              "crosses-18-yard-plus": "1",
+              "passes-complete-3rd-final": "12",
+              "tackles-total": "1",
+              "passes-total": "75",
+              "shots-off-goal-total": "2",
+              "passes-incomplete": "7",
+              "tackles-lost": "1",
+              "shots-total": "2",
+              "assists-total": "1",
+              "passes-complete-long": "9",
+              "tackles-won": "0",
+              "passes-complete": "68"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "shots_off_goal_total": "2",
+              "tackles_total": "1",
+              "passes_complete": "68",
+              "passes_complete_long": "9",
+              "passes_incomplete": "7",
+              "tackles_won": "0",
+              "assists_total": "1",
+              "passes_complete_3rd_final": "12",
+              "passes_total": "75",
+              "crosses_18_yard_plus": "1",
+              "shots_total": "2"
+            }
+          },
+          "position": "midfielder",
+          "first": "Jackson"
+        },
+        {
+          "status": "starter",
+          "full": "Cristian Espinoza",
+          "last": "Espinoza",
+          "time_played_total": "79",
+          "uniform_number": "10",
+          "stats": {
+            "touches": "61",
+            "stats_soccer_defensive": {
+              "goals-against-total": "0"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "2",
+              "fouls-suffered": "1",
+              "cautions-total": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "0"
+            },
+            "stats_soccer_offensive": {
+              "crosses-18-yard-plus": "1",
+              "passes-complete-3rd-final": "6",
+              "passes-total": "28",
+              "assists-total": "1",
+              "passes-incomplete": "2",
+              "shots-total": "2",
+              "passes-complete-long": "1",
+              "shots-on-goal-total": "2",
+              "passes-complete": "26",
+              "crosses-18-yard": "7"
+            },
+            "stats_foul": {
+              "fouls_commited": "2",
+              "fouls_suffered": "1",
+              "cautions_total": "1"
+            },
+            "stats_offensive": {
+              "shots_on_goal_total": "2",
+              "passes_complete": "26",
+              "passes_complete_long": "1",
+              "passes_incomplete": "2",
+              "crosses_18_yard": "7",
+              "crosses_18_yard_plus": "1",
+              "passes_complete_3rd_final": "6",
+              "passes_total": "28",
+              "assists_total": "1",
+              "shots_total": "2"
+            }
+          },
+          "position": "midfielder",
+          "first": "Cristian"
+        },
+        {
+          "status": "starter",
+          "full": "An\u00edbal Godoy",
+          "last": "Godoy",
+          "time_played_total": "90",
+          "uniform_number": "20",
+          "stats": {
+            "touches": "70",
+            "stats_soccer_defensive": {
+              "goals-against-total": "1",
+              "interceptions": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "61",
+              "passes-complete-3rd-final": "9",
+              "passes-complete-long": "5",
+              "passes-complete": "55",
+              "passes-incomplete": "6"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "4",
+              "fouls-suffered": "2"
+            },
+            "stats_defensive": {
+              "goals_against_total": "1",
+              "interceptions": "1"
+            },
+            "aerials_won": "2",
+            "stats_foul": {
+              "fouls_commited": "4",
+              "fouls_suffered": "2"
+            },
+            "stats_offensive": {
+              "passes_complete": "55",
+              "passes_complete_long": "5",
+              "passes_complete_3rd_final": "9",
+              "passes_total": "61",
+              "passes_incomplete": "6"
+            }
+          },
+          "position": "midfielder",
+          "first": "An\u00edbal"
+        },
+        {
+          "status": "starter",
+          "full": "Magnus Eriksson",
+          "last": "Eriksson",
+          "time_played_total": "90",
+          "uniform_number": "7",
+          "stats": {
+            "touches": "56",
+            "stats_soccer_defensive": {
+              "goals-against-total": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "17",
+              "tackles-total": "2",
+              "passes-total": "39",
+              "shots-off-goal-total": "2",
+              "passes-incomplete": "7",
+              "tackles-lost": "1",
+              "shots-total": "2",
+              "passes-complete-long": "2",
+              "tackles-won": "1",
+              "passes-complete": "32"
+            },
+            "stats_soccer_foul": {
+              "fouls-suffered": "5"
+            },
+            "stats_defensive": {
+              "goals_against_total": "1"
+            },
+            "aerials_won": "1",
+            "stats_foul": {
+              "fouls_suffered": "5"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "shots_off_goal_total": "2",
+              "tackles_total": "2",
+              "passes_complete": "32",
+              "passes_complete_long": "2",
+              "passes_incomplete": "7",
+              "tackles_won": "1",
+              "passes_complete_3rd_final": "17",
+              "passes_total": "39",
+              "shots_total": "2"
+            }
+          },
+          "position": "midfielder",
+          "first": "Magnus"
+        },
+        {
+          "status": "starter",
+          "full": "Shea Salinas",
+          "last": "Salinas",
+          "time_played_total": "88",
+          "uniform_number": "6",
+          "stats": {
+            "touches": "47",
+            "stats_soccer_defensive": {
+              "goals-against-total": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "12",
+              "assists-total": "1",
+              "passes-total": "25",
+              "shots-off-goal-total": "1",
+              "passes-incomplete": "3",
+              "shots-total": "2",
+              "shots-on-goal-total": "1",
+              "passes-complete": "22",
+              "crosses-18-yard": "1"
+            },
+            "stats_soccer_foul": {
+              "fouls-suffered": "2"
+            },
+            "stats_defensive": {
+              "goals_against_total": "1"
+            },
+            "aerials_won": "1",
+            "stats_foul": {
+              "fouls_suffered": "2"
+            },
+            "stats_offensive": {
+              "shots_on_goal_total": "1",
+              "shots_off_goal_total": "1",
+              "passes_complete": "22",
+              "passes_incomplete": "3",
+              "crosses_18_yard": "1",
+              "passes_complete_3rd_final": "12",
+              "passes_total": "25",
+              "assists_total": "1",
+              "shots_total": "2"
+            }
+          },
+          "position": "midfielder",
+          "first": "Shea"
+        },
+        {
+          "status": "starter",
+          "full": "Chris Wondolowski",
+          "last": "Wondolowski",
+          "time_played_total": "89",
+          "uniform_number": "8",
+          "stats": {
+            "touches": "27",
+            "stats_soccer_defensive": {
+              "goals-against-total": "1"
+            },
+            "stats_soccer_offensive": {
+              "goals-left-foot": "0",
+              "passes-complete-3rd-final": "4",
+              "shots-total": "5",
+              "tackles-total": "2",
+              "passes-total": "17",
+              "shots-off-goal-total": "1",
+              "passes-incomplete": "9",
+              "tackles-lost": "0",
+              "tackles-won": "2",
+              "goals-total": "4",
+              "shots-on-goal-total": "4",
+              "passes-complete": "8",
+              "goals-right-foot": "0",
+              "goals-head": "0"
+            },
+            "stats_soccer_foul": {
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "1"
+            },
+            "aerials_won": "1",
+            "stats_foul": {
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "0",
+              "shots_on_goal_total": "4",
+              "shots_off_goal_total": "1",
+              "tackles_total": "2",
+              "passes_complete": "8",
+              "goals_left_foot": "0",
+              "passes_incomplete": "9",
+              "goals_right_foot": "0",
+              "tackles_won": "2",
+              "goals_head": "0",
+              "goals_total": "4",
+              "passes_complete_3rd_final": "4",
+              "passes_total": "17",
+              "shots_total": "5"
+            }
+          },
+          "position": "forward",
+          "first": "Chris"
+        },
+        {
+          "status": "bench",
+          "full": "Valeri Qazaishvili",
+          "last": "Qazaishvili",
+          "time_played_total": "11",
+          "uniform_number": "11",
+          "stats": {
+            "touches": "10",
+            "stats_soccer_defensive": {
+              "goals-against-total": "1"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "goals_against_total": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "5",
+              "passes-complete-3rd-final": "1",
+              "passes-complete": "4",
+              "passes-incomplete": "1"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "4",
+              "passes_complete_3rd_final": "1",
+              "passes_total": "5",
+              "passes_incomplete": "1"
+            }
+          },
+          "position": "midfielder",
+          "first": "Valeri"
+        },
+        {
+          "status": "bench",
+          "full": "Siad Haji",
+          "last": "Haji",
+          "time_played_total": "1",
+          "uniform_number": "19",
+          "stats": {
+            "stats_soccer_defensive": {
+              "goals-against-total": "0"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "goals_against_total": "0"
+            },
+            "stats_soccer_offensive": {
+              
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              
+            }
+          },
+          "position": "midfielder",
+          "first": "Siad"
+        },
+        {
+          "status": "bench",
+          "full": "Marcos L\u00f3pez",
+          "last": "L\u00f3pez",
+          "uniform_number": "27",
+          "position": "defender",
+          "first": "Marcos"
+        },
+        {
+          "status": "bench",
+          "full": "Andrew Tarbell",
+          "last": "Tarbell",
+          "uniform_number": "28",
+          "position": "goalkeeper",
+          "first": "Andrew"
+        },
+        {
+          "status": "bench",
+          "full": "Paul Marie",
+          "last": "Marie",
+          "uniform_number": "33",
+          "position": "midfielder",
+          "first": "Paul"
+        },
+        {
+          "status": "bench",
+          "full": "Guram Kashia",
+          "last": "Kashia",
+          "uniform_number": "37",
+          "position": "defender",
+          "first": "Guram"
+        },
+        {
+          "status": "bench",
+          "full": "Judson",
+          "last": "Silva Tavares",
+          "time_played_total": "2",
+          "uniform_number": "93",
+          "stats": {
+            "touches": "3",
+            "stats_soccer_defensive": {
+              "clearances-successful": "1",
+              "goals-against-total": "0",
+              "shots-blocked-outfielder": "1"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "1",
+              "goals_against_total": "0",
+              "clearances_successful": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "1",
+              "passes-complete": "",
+              "passes-incomplete": "NaN"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "",
+              "passes_incomplete": "NaN",
+              "passes_total": "1"
+            }
+          },
+          "position": "midfielder",
+          "first": "Judson"
+        }
+      ],
+      "image": "https:\/\/cdn7.uvnimg.com\/univision-media\/image\/upload\/v1539188810\/prod\/sports\/teams_logos\/1131.png",
+      "stats": {
+        "sports_property": [
+          {
+            "formal-name": "duels-won",
+            "value": "60"
+          },
+          {
+            "formal-name": "aerials-won",
+            "value": "14"
+          },
+          {
+            "formal-name": "passes-long-total",
+            "value": "63"
+          },
+          {
+            "formal-name": "crosses-total",
+            "value": "20"
+          },
+          {
+            "formal-name": "attempts-obox",
+            "value": "8"
+          },
+          {
+            "formal-name": "attempts-ibox",
+            "value": "14"
+          },
+          {
+            "formal-name": "tackles-won-percentage",
+            "value": "0.636"
+          },
+          {
+            "formal-name": "passes-total",
+            "value": "536"
+          },
+          {
+            "formal-name": "clearances",
+            "value": "22"
+          },
+          {
+            "formal-name": "interceptions",
+            "value": "6"
+          },
+          {
+            "formal-name": "passing-accuracy",
+            "value": "0.866"
+          },
+          {
+            "formal-name": "crosses-accuracy",
+            "value": "0.100"
+          },
+          {
+            "formal-name": "shooting-accuracy",
+            "value": "0.182"
+          },
+          {
+            "formal-name": "passing-accuracy-opp-half",
+            "value": "0.733"
+          }
+        ],
+        "sub_score": [
+          {
+            "period-value": "1",
+            "score": "1"
+          },
+          {
+            "period-value": "2",
+            "score": "3"
+          }
+        ],
+        "stats_foul": {
+          "fouls_commited": "9",
+          "cautions_total": "1"
+        },
+        "team_stats_soccer": {
+          "stats-soccer-defensive": {
+            "shots-blocked": "9",
+            "goals-against-total": "1",
+            "interceptions": "6"
+          },
+          "line-formation": "4141",
+          "stats-soccer-offensive": {
+            "corner-kicks": "10",
+            "tackles-total": "11",
+            "passes-total": "536",
+            "tackles-lost": "4",
+            "shots-total": "22",
+            "tackles-won": "7",
+            "shots-on-goal-total": "7",
+            "offsides": "4"
+          },
+          "stats-soccer-foul": {
+            "fouls-commited": "9",
+            "cautions-total": "1"
+          }
+        },
+        "score": "4",
+        "score_opposing": "1",
+        "time_of_possession_percentage": "61.5",
+        "stats_defensive": {
+          "goals_against_total": "1",
+          "interceptions": "6",
+          "shots_blocked": "9"
+        },
+        "event_outcome": "win",
+        "stats_offensive": {
+          "tackles_lost": "4",
+          "shots_on_goal_total": "7",
+          "tackles_total": "11",
+          "corner_kicks": "10",
+          "offsides": "4",
+          "tackles_won": "7",
+          "passes_total": "536",
+          "shots_total": "22"
+        }
+      },
+      "name": {
+        "abbrev": "SJ",
+        "full": "SJ Earthquakes",
+        "first": "SJ Earthquakes"
+      },
+      "assitant": [
+        
+      ]
+    },
+    "tournament_type": "Unknown",
+    "match_id": "6cf4a98226ebece13a9fa993cd8bf1a6a1011e27cf1f47862ccc3dcc",
+    "event_name": "San Jose Earthquakes vs Chicago Fire",
+    "season": 2019,
+    "start_time": "2019-05-18T19:30:00.000Z",
+    "eventkey": 1040031,
+    "substitutions": [
+      {
+        "player_position_out": "midfielder",
+        "minutes_elapsed": "55",
+        "player_position_in": "midfielder",
+        "period": "2",
+        "player_in": "Djordje Mihailovic",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        },
+        "substitution_reason": "Tactical",
+        "player_out": "Nemanja Nikolic"
+      },
+      {
+        "player_position_out": "midfielder",
+        "minutes_elapsed": "55",
+        "player_position_in": "midfielder",
+        "period": "2",
+        "player_in": "Mohammed Adams",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        },
+        "substitution_reason": "Tactical",
+        "player_out": "Brandt Bronico"
+      },
+      {
+        "player_position_out": "defender",
+        "minutes_elapsed": "72",
+        "player_position_in": "defender",
+        "period": "2",
+        "player_in": "Diego Campos",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        },
+        "substitution_reason": "Tactical",
+        "player_out": "Jorge Corrales"
+      },
+      {
+        "player_position_out": "midfielder",
+        "minutes_elapsed": "79",
+        "player_position_in": "midfielder",
+        "period": "2",
+        "player_in": "Valeri Qazaishvili",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        },
+        "substitution_reason": "Tactical",
+        "player_out": "Cristian Espinoza"
+      },
+      {
+        "player_position_out": "midfielder",
+        "minutes_elapsed": "88",
+        "player_position_in": "midfielder",
+        "period": "2",
+        "player_in": "Judson",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        },
+        "substitution_reason": "Tactical",
+        "player_out": "Shea Salinas"
+      },
+      {
+        "player_position_out": "forward",
+        "minutes_elapsed": "91",
+        "player_position_in": "midfielder",
+        "period": "2",
+        "player_in": "Siad Haji",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        },
+        "substitution_reason": "Tactical",
+        "player_out": "Chris Wondolowski"
+      }
+    ],
+    "stadium": "Avaya Stadium",
+    "officials": [
+      {
+        "lastname": "Chilowicz",
+        "full": "Alex Chilowicz",
+        "role": "main-official",
+        "first": "Alex"
+      }
+    ],
+    "result": [
+      4,
+      1
+    ],
+    "event_outcome_type": "regular",
+    "scores": [
+      {
+        "minutes_elapsed": "21",
+        "participants": [
+          {
+            "player": {
+              "abbreviation": "Wondolowski",
+              "position": "forward",
+              "full": "Chris Wondolowski",
+              "last": "Wondolowski",
+              "first": "Chris"
+            },
+            "role": "scorer"
+          },
+          {
+            "player": {
+              "abbreviation": "Salinas",
+              "position": "midfielder",
+              "full": "Shea Salinas",
+              "last": "Salinas",
+              "first": "Shea"
+            },
+            "role": "assist"
+          }
+        ],
+        "score_type": "regular",
+        "period": "1",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        }
+      },
+      {
+        "minutes_elapsed": "48",
+        "participants": [
+          {
+            "player": {
+              "abbreviation": "Wondolowski",
+              "position": "forward",
+              "full": "Chris Wondolowski",
+              "last": "Wondolowski",
+              "first": "Chris"
+            },
+            "role": "scorer"
+          }
+        ],
+        "score_type": "regular",
+        "period": "2",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        }
+      },
+      {
+        "minutes_elapsed": "74",
+        "participants": [
+          {
+            "player": {
+              "abbreviation": "Wondolowski",
+              "position": "forward",
+              "full": "Chris Wondolowski",
+              "last": "Wondolowski",
+              "first": "Chris"
+            },
+            "role": "scorer"
+          },
+          {
+            "player": {
+              "abbreviation": "Espinoza",
+              "position": "midfielder",
+              "full": "Cristian Espinoza",
+              "last": "Espinoza",
+              "first": "Cristian"
+            },
+            "role": "assist"
+          }
+        ],
+        "score_type": "regular",
+        "period": "2",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        }
+      },
+      {
+        "minutes_elapsed": "76",
+        "participants": [
+          {
+            "player": {
+              "abbreviation": "Wondolowski",
+              "position": "forward",
+              "full": "Chris Wondolowski",
+              "last": "Wondolowski",
+              "first": "Chris"
+            },
+            "role": "scorer"
+          },
+          {
+            "player": {
+              "abbreviation": "Yueill",
+              "position": "midfielder",
+              "full": "Jackson Yueill",
+              "last": "Yueill",
+              "first": "Jackson"
+            },
+            "role": "assist"
+          }
+        ],
+        "score_type": "regular",
+        "period": "2",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        }
+      },
+      {
+        "minutes_elapsed": "83",
+        "participants": [
+          {
+            "player": {
+              "abbreviation": "Katai",
+              "position": "midfielder",
+              "full": "Aleksandar Katai",
+              "last": "Katai",
+              "first": "Aleksandar"
+            },
+            "role": "scorer"
+          },
+          {
+            "player": {
+              "abbreviation": "McCarty",
+              "position": "midfielder",
+              "full": "Dax McCarty",
+              "last": "McCarty",
+              "first": "Dax"
+            },
+            "role": "assist"
+          }
+        ],
+        "score_type": "regular",
+        "period": "2",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        }
+      }
+    ],
+    "date": "2019-05-18",
+    "penalties": [
+      {
+        "comment": "Foul",
+        "penalty_type": "foul",
+        "penalty_level": "yellow-card",
+        "minutes_elapsed": "41",
+        "period": "1",
+        "player": {
+          "abbreviation": "Kappelhof",
+          "position": "defender",
+          "full": "Johan Kappelhof",
+          "last": "Kappelhof",
+          "first": "Johan"
+        },
+        "recipient_type": "player",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        }
+      },
+      {
+        "comment": "Foul",
+        "penalty_type": "foul",
+        "penalty_level": "yellow-card",
+        "minutes_elapsed": "54",
+        "period": "2",
+        "player": {
+          "abbreviation": "Espinoza",
+          "position": "midfielder",
+          "full": "Cristian Espinoza",
+          "last": "Espinoza",
+          "first": "Cristian"
+        },
+        "recipient_type": "player",
+        "team": {
+          "abbrev": "SJ",
+          "full": "SJ Earthquakes",
+          "first": "SJ Earthquakes"
+        }
+      },
+      {
+        "comment": "Foul",
+        "penalty_type": "foul",
+        "penalty_level": "yellow-card",
+        "minutes_elapsed": "63",
+        "period": "2",
+        "player": {
+          "abbreviation": "Corrales",
+          "position": "defender",
+          "full": "Jorge Corrales",
+          "last": "Corrales",
+          "first": "Jorge"
+        },
+        "recipient_type": "player",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        }
+      },
+      {
+        "comment": "Persistent Infringement",
+        "penalty_type": "other",
+        "penalty_level": "yellow-card",
+        "minutes_elapsed": "86",
+        "period": "2",
+        "player": {
+          "abbreviation": "Calvo",
+          "position": "defender",
+          "full": "Francisco Calvo",
+          "last": "Calvo",
+          "first": "Francisco"
+        },
+        "recipient_type": "player",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        }
+      },
+      {
+        "comment": "Foul",
+        "penalty_type": "foul",
+        "penalty_level": "yellow-card",
+        "minutes_elapsed": "95",
+        "period": "2",
+        "player": {
+          "abbreviation": "Katai",
+          "position": "midfielder",
+          "full": "Aleksandar Katai",
+          "last": "Katai",
+          "first": "Aleksandar"
+        },
+        "recipient_type": "player",
+        "team": {
+          "abbrev": "CHI",
+          "full": "Chicago Fire",
+          "first": "Chicago Fire"
+        }
+      }
+    ],
+    "extra_time": "5",
+    "tournament_name": "US Major League Soccer",
+    "visitant_team": {
+      "players": [
+        {
+          "status": "starter",
+          "full": "David Ousted",
+          "last": "Ousted",
+          "time_played_total": "90",
+          "uniform_number": "1",
+          "stats": {
+            "touches": "35",
+            "stats_soccer_defensive": {
+              "clearances-successful": "3",
+              "saves": "3",
+              "goals-against-total": "4",
+              "catches-punches": "4",
+              "save-percentage": "0.429"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "19",
+              "passes-complete-long": "4",
+              "passes-complete": "11",
+              "passes-incomplete": "8"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "save_percentage": "0.429",
+              "saves": "3",
+              "goals_against_total": "4",
+              "catches_punches": "4",
+              "clearances_successful": "3"
+            },
+            "aerials_won": "1",
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "11",
+              "passes_complete_long": "4",
+              "passes_incomplete": "8",
+              "passes_total": "19"
+            }
+          },
+          "position": "goalkeeper",
+          "first": "David"
+        },
+        {
+          "status": "starter",
+          "full": "Johan Kappelhof",
+          "last": "Kappelhof",
+          "time_played_total": "90",
+          "uniform_number": "4",
+          "stats": {
+            "touches": "52",
+            "stats_soccer_defensive": {
+              "clearances-successful": "6",
+              "goals-against-total": "4",
+              "shots-blocked-outfielder": "1"
+            },
+            "stats_soccer_offensive": {
+              "crosses-18-yard-plus": "1",
+              "passes-complete-3rd-final": "7",
+              "tackles-total": "2",
+              "passes-total": "30",
+              "shots-off-goal-total": "1",
+              "passes-incomplete": "4",
+              "tackles-lost": "0",
+              "shots-total": "1",
+              "passes-complete-long": "3",
+              "tackles-won": "2",
+              "passes-complete": "26"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "3",
+              "fouls-suffered": "1",
+              "cautions-total": "1"
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "1",
+              "goals_against_total": "4",
+              "clearances_successful": "6"
+            },
+            "aerials_won": "2",
+            "stats_foul": {
+              "fouls_commited": "3",
+              "fouls_suffered": "1",
+              "cautions_total": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "0",
+              "shots_off_goal_total": "1",
+              "tackles_total": "2",
+              "passes_complete": "26",
+              "passes_complete_long": "3",
+              "passes_incomplete": "4",
+              "tackles_won": "2",
+              "passes_complete_3rd_final": "7",
+              "passes_total": "30",
+              "crosses_18_yard_plus": "1",
+              "shots_total": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Johan"
+        },
+        {
+          "status": "starter",
+          "full": "Marcelo",
+          "last": "dos Santos Ferreira",
+          "time_played_total": "90",
+          "uniform_number": "2",
+          "stats": {
+            "touches": "49",
+            "stats_soccer_defensive": {
+              "clearances-successful": "5",
+              "goals-against-total": "4",
+              "interceptions": "1",
+              "shots-blocked-outfielder": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "3",
+              "tackles-total": "1",
+              "passes-total": "38",
+              "tackles-lost": "1",
+              "passes-incomplete": "10",
+              "passes-complete-long": "5",
+              "tackles-won": "0",
+              "passes-complete": "28"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "1"
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "1",
+              "goals_against_total": "4",
+              "interceptions": "1",
+              "clearances_successful": "5"
+            },
+            "aerials_won": "2",
+            "stats_foul": {
+              "fouls_commited": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "tackles_total": "1",
+              "passes_complete": "28",
+              "passes_total": "38",
+              "passes_incomplete": "10",
+              "passes_complete_3rd_final": "3",
+              "passes_complete_long": "5",
+              "tackles_won": "0"
+            }
+          },
+          "position": "defender",
+          "first": "Marcelo"
+        },
+        {
+          "status": "starter",
+          "full": "Francisco Calvo",
+          "last": "Calvo",
+          "time_played_total": "90",
+          "uniform_number": "5",
+          "stats": {
+            "touches": "49",
+            "stats_soccer_defensive": {
+              "clearances-successful": "1",
+              "goals-against-total": "4",
+              "interceptions": "2",
+              "shots-blocked-outfielder": "2"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "4",
+              "tackles-total": "1",
+              "passes-total": "32",
+              "shots-off-goal-total": "3",
+              "passes-incomplete": "11",
+              "tackles-lost": "1",
+              "shots-total": "3",
+              "passes-complete-long": "4",
+              "tackles-won": "0",
+              "passes-complete": "21",
+              "crosses-18-yard": "1"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "2",
+              "cautions-total": "1"
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "2",
+              "goals_against_total": "4",
+              "interceptions": "2",
+              "clearances_successful": "1"
+            },
+            "aerials_won": "1",
+            "stats_foul": {
+              "fouls_commited": "2",
+              "cautions_total": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "shots_off_goal_total": "3",
+              "tackles_total": "1",
+              "passes_complete": "21",
+              "passes_complete_long": "4",
+              "passes_incomplete": "11",
+              "tackles_won": "0",
+              "crosses_18_yard": "1",
+              "passes_complete_3rd_final": "4",
+              "passes_total": "32",
+              "shots_total": "3"
+            }
+          },
+          "position": "defender",
+          "first": "Francisco"
+        },
+        {
+          "status": "starter",
+          "full": "Jorge Corrales",
+          "last": "Corrales",
+          "time_played_total": "72",
+          "uniform_number": "25",
+          "stats": {
+            "touches": "33",
+            "stats_soccer_defensive": {
+              "clearances-successful": "4",
+              "goals-against-total": "2",
+              "shots-blocked-outfielder": "2"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "1",
+              "cautions-total": "1"
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "2",
+              "goals_against_total": "2",
+              "clearances_successful": "4"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "4",
+              "tackles-total": "2",
+              "passes-total": "18",
+              "tackles-lost": "1",
+              "passes-incomplete": "4",
+              "passes-complete-long": "1",
+              "tackles-won": "1",
+              "passes-complete": "14"
+            },
+            "stats_foul": {
+              "fouls_commited": "1",
+              "cautions_total": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "tackles_total": "2",
+              "passes_complete": "14",
+              "passes_total": "18",
+              "passes_incomplete": "4",
+              "passes_complete_3rd_final": "4",
+              "passes_complete_long": "1",
+              "tackles_won": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Jorge"
+        },
+        {
+          "status": "starter",
+          "full": "Dax McCarty",
+          "last": "McCarty",
+          "time_played_total": "90",
+          "uniform_number": "6",
+          "stats": {
+            "touches": "50",
+            "stats_soccer_defensive": {
+              "clearances-successful": "1",
+              "goals-against-total": "4",
+              "interceptions": "1",
+              "shots-blocked-outfielder": "1"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "2",
+              "fouls-suffered": "4"
+            },
+            "stats_defensive": {
+              "shots_blocked_outfielder": "1",
+              "goals_against_total": "4",
+              "interceptions": "1",
+              "clearances_successful": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "8",
+              "tackles-total": "1",
+              "passes-total": "32",
+              "shots-off-goal-total": "1",
+              "passes-incomplete": "5",
+              "tackles-lost": "1",
+              "shots-total": "1",
+              "assists-total": "1",
+              "passes-complete-long": "2",
+              "tackles-won": "0",
+              "passes-complete": "27"
+            },
+            "stats_foul": {
+              "fouls_commited": "2",
+              "fouls_suffered": "4"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "shots_off_goal_total": "1",
+              "tackles_total": "1",
+              "passes_complete": "27",
+              "passes_complete_long": "2",
+              "passes_incomplete": "5",
+              "tackles_won": "0",
+              "passes_complete_3rd_final": "8",
+              "passes_total": "32",
+              "assists_total": "1",
+              "shots_total": "1"
+            }
+          },
+          "position": "midfielder",
+          "first": "Dax"
+        },
+        {
+          "status": "starter",
+          "full": "Brandt Bronico",
+          "last": "Bronico",
+          "time_played_total": "55",
+          "uniform_number": "13",
+          "stats": {
+            "touches": "26",
+            "stats_soccer_defensive": {
+              "shots-blocked-cross": "1",
+              "shots-blocked-outfielder": "1",
+              "goals-against-total": "2",
+              "interceptions": "1"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "shots_blocked_cross": "1",
+              "goals_against_total": "2",
+              "shots_blocked_outfielder": "1",
+              "interceptions": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "19",
+              "passes-complete-3rd-final": "5",
+              "passes-complete": "17",
+              "passes-incomplete": "2"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "17",
+              "passes_complete_3rd_final": "5",
+              "passes_total": "19",
+              "passes_incomplete": "2"
+            }
+          },
+          "position": "midfielder",
+          "first": "Brandt"
+        },
+        {
+          "status": "starter",
+          "full": "Przemyslaw Frankowski",
+          "last": "Frankowski",
+          "time_played_total": "90",
+          "uniform_number": "11",
+          "stats": {
+            "touches": "50",
+            "stats_soccer_defensive": {
+              "clearances-successful": "2",
+              "goals-against-total": "4"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "1",
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "4",
+              "clearances_successful": "2"
+            },
+            "stats_soccer_offensive": {
+              "crosses-18-yard-plus": "3",
+              "passes-complete-3rd-final": "10",
+              "tackles-total": "4",
+              "passes-total": "29",
+              "tackles-lost": "3",
+              "passes-incomplete": "8",
+              "passes-complete-long": "1",
+              "tackles-won": "1",
+              "passes-complete": "21",
+              "crosses-18-yard": "1"
+            },
+            "stats_foul": {
+              "fouls_commited": "1",
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "3",
+              "tackles_total": "4",
+              "passes_complete": "21",
+              "passes_complete_long": "1",
+              "passes_incomplete": "8",
+              "crosses_18_yard": "1",
+              "passes_complete_3rd_final": "10",
+              "passes_total": "29",
+              "crosses_18_yard_plus": "3",
+              "tackles_won": "1"
+            }
+          },
+          "position": "midfielder",
+          "first": "Przemyslaw"
+        },
+        {
+          "status": "starter",
+          "full": "Nemanja Nikolic",
+          "last": "Nikolic",
+          "time_played_total": "55",
+          "uniform_number": "23",
+          "stats": {
+            "touches": "22",
+            "stats_soccer_defensive": {
+              "goals-against-total": "2"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "goals_against_total": "2"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "4",
+              "tackles-total": "1",
+              "passes-total": "16",
+              "shots-off-goal-total": "1",
+              "passes-incomplete": "3",
+              "tackles-lost": "0",
+              "shots-total": "2",
+              "passes-complete-long": "1",
+              "tackles-won": "1",
+              "shots-on-goal-total": "1",
+              "passes-complete": "13"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "tackles_lost": "0",
+              "shots_on_goal_total": "1",
+              "shots_off_goal_total": "1",
+              "tackles_total": "1",
+              "passes_complete": "13",
+              "passes_complete_long": "1",
+              "passes_incomplete": "3",
+              "tackles_won": "1",
+              "passes_complete_3rd_final": "4",
+              "passes_total": "16",
+              "shots_total": "2"
+            }
+          },
+          "position": "midfielder",
+          "first": "Nemanja"
+        },
+        {
+          "status": "starter",
+          "full": "Aleksandar Katai",
+          "last": "Katai",
+          "time_played_total": "90",
+          "uniform_number": "10",
+          "stats": {
+            "touches": "58",
+            "stats_soccer_defensive": {
+              "goals-against-total": "4"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "3",
+              "cautions-total": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "4"
+            },
+            "stats_soccer_offensive": {
+              "goals-left-foot": "0",
+              "crosses-18-yard-plus": "1",
+              "passes-complete-3rd-final": "13",
+              "shots-total": "4",
+              "tackles-total": "1",
+              "passes-total": "32",
+              "shots-off-goal-total": "2",
+              "passes-incomplete": "10",
+              "tackles-lost": "1",
+              "tackles-won": "0",
+              "passes-complete-long": "1",
+              "goals-total": "1",
+              "shots-on-goal-total": "2",
+              "passes-complete": "22",
+              "crosses-18-yard": "2",
+              "free-kicks": "1",
+              "goals-right-foot": "0",
+              "goals-head": "0"
+            },
+            "stats_foul": {
+              "fouls_commited": "3",
+              "cautions_total": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "1",
+              "shots_on_goal_total": "2",
+              "shots_off_goal_total": "2",
+              "tackles_total": "1",
+              "passes_complete": "22",
+              "goals_left_foot": "0",
+              "passes_incomplete": "10",
+              "goals_right_foot": "0",
+              "passes_complete_long": "1",
+              "tackles_won": "0",
+              "free_kicks": "1",
+              "goals_head": "0",
+              "crosses_18_yard": "2",
+              "goals_total": "1",
+              "passes_complete_3rd_final": "13",
+              "passes_total": "32",
+              "crosses_18_yard_plus": "1",
+              "shots_total": "4"
+            }
+          },
+          "position": "midfielder",
+          "first": "Aleksandar"
+        },
+        {
+          "status": "starter",
+          "full": "C.J. Sapong",
+          "last": "Kwabena Sapong",
+          "time_played_total": "90",
+          "uniform_number": "9",
+          "stats": {
+            "touches": "38",
+            "stats_soccer_defensive": {
+              "goals-against-total": "4"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "28",
+              "passes-complete-3rd-final": "5",
+              "crosses-18-yard": "1",
+              "passes-complete": "20",
+              "passes-incomplete": "8"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "2",
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "4"
+            },
+            "aerials_won": "7",
+            "stats_foul": {
+              "fouls_commited": "2",
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "passes_complete": "20",
+              "crosses_18_yard": "1",
+              "passes_complete_3rd_final": "5",
+              "passes_total": "28",
+              "passes_incomplete": "8"
+            }
+          },
+          "position": "forward",
+          "first": "Charles"
+        },
+        {
+          "status": "bench",
+          "full": "Djordje Mihailovic",
+          "last": "Mihailovic",
+          "time_played_total": "35",
+          "uniform_number": "14",
+          "stats": {
+            "touches": "18",
+            "stats_soccer_defensive": {
+              "shots-blocked-outfielder": "1",
+              "goals-against-total": "2",
+              "interceptions": "1"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "goals_against_total": "2",
+              "shots_blocked_outfielder": "1",
+              "interceptions": "1"
+            },
+            "stats_soccer_offensive": {
+              "passes-total": "13",
+              "passes-complete-3rd-final": "6",
+              "passes-complete": "12",
+              "passes-incomplete": "1"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "12",
+              "passes_complete_3rd_final": "6",
+              "passes_total": "13",
+              "passes_incomplete": "1"
+            }
+          },
+          "position": "midfielder",
+          "first": "Djordje"
+        },
+        {
+          "status": "bench",
+          "full": "Diego Campos",
+          "last": "Campos",
+          "time_played_total": "18",
+          "uniform_number": "17",
+          "stats": {
+            "touches": "14",
+            "stats_soccer_defensive": {
+              "goals-against-total": "2"
+            },
+            "stats_soccer_foul": {
+              
+            },
+            "stats_defensive": {
+              "goals_against_total": "2"
+            },
+            "stats_soccer_offensive": {
+              "crosses-18-yard-plus": "1",
+              "passes-total": "6",
+              "passes-complete-3rd-final": "1",
+              "passes-complete": "3",
+              "passes-incomplete": "3"
+            },
+            "stats_foul": {
+              
+            },
+            "stats_offensive": {
+              "passes_complete": "3",
+              "passes_complete_3rd_final": "1",
+              "passes_total": "6",
+              "passes_incomplete": "3",
+              "crosses_18_yard_plus": "1"
+            }
+          },
+          "position": "defender",
+          "first": "Diego"
+        },
+        {
+          "status": "bench",
+          "full": "Cristian Mart\u00ednez",
+          "last": "Mart\u00ednez",
+          "uniform_number": "18",
+          "position": "midfielder",
+          "first": "Cristian"
+        },
+        {
+          "status": "bench",
+          "full": "Mohammed Adams",
+          "last": "Adams",
+          "time_played_total": "35",
+          "uniform_number": "19",
+          "stats": {
+            "touches": "16",
+            "stats_soccer_defensive": {
+              "goals-against-total": "2"
+            },
+            "stats_soccer_foul": {
+              "fouls-commited": "1",
+              "fouls-suffered": "1"
+            },
+            "stats_defensive": {
+              "goals_against_total": "2"
+            },
+            "stats_soccer_offensive": {
+              "passes-complete-3rd-final": "2",
+              "tackles-total": "2",
+              "passes-total": "11",
+              "tackles-lost": "2",
+              "passes-incomplete": "0",
+              "tackles-won": "0",
+              "passes-complete": "11"
+            },
+            "stats_foul": {
+              "fouls_commited": "1",
+              "fouls_suffered": "1"
+            },
+            "stats_offensive": {
+              "tackles_lost": "2",
+              "tackles_total": "2",
+              "passes_complete": "11",
+              "passes_incomplete": "0",
+              "passes_complete_3rd_final": "2",
+              "passes_total": "11",
+              "tackles_won": "0"
+            }
+          },
+          "position": "midfielder",
+          "first": "Mohammed"
+        },
+        {
+          "status": "bench",
+          "full": "Fabian Herbers",
+          "last": "Herbers",
+          "uniform_number": "21",
+          "position": "forward",
+          "first": "Fabian"
+        },
+        {
+          "status": "bench",
+          "full": "Jeremiah Gutjahr",
+          "last": "Gutjahr",
+          "uniform_number": "33",
+          "position": "midfielder",
+          "first": "Jeremiah"
+        },
+        {
+          "status": "bench",
+          "full": "Richard S\u00e1nchez",
+          "last": "S\u00e1nchez",
+          "uniform_number": "45",
+          "position": "goalkeeper",
+          "first": "Richard"
+        }
+      ],
+      "image": "https:\/\/cdn7.uvnimg.com\/univision-media\/image\/upload\/v1539189515\/prod\/sports\/teams_logos\/1207.png",
+      "stats": {
+        "sports_property": [
+          {
+            "formal-name": "duels-won",
+            "value": "41"
+          },
+          {
+            "formal-name": "aerials-won",
+            "value": "13"
+          },
+          {
+            "formal-name": "passes-long-total",
+            "value": "47"
+          },
+          {
+            "formal-name": "crosses-total",
+            "value": "17"
+          },
+          {
+            "formal-name": "attempts-obox",
+            "value": "9"
+          },
+          {
+            "formal-name": "attempts-ibox",
+            "value": "7"
+          },
+          {
+            "formal-name": "tackles-won-percentage",
+            "value": "0.333"
+          },
+          {
+            "formal-name": "passes-total",
+            "value": "323"
+          },
+          {
+            "formal-name": "clearances",
+            "value": "22"
+          },
+          {
+            "formal-name": "interceptions",
+            "value": "6"
+          },
+          {
+            "formal-name": "passing-accuracy",
+            "value": "0.762"
+          },
+          {
+            "formal-name": "crosses-accuracy",
+            "value": "0.412"
+          },
+          {
+            "formal-name": "shooting-accuracy",
+            "value": "0.062"
+          },
+          {
+            "formal-name": "passing-accuracy-opp-half",
+            "value": "0.668"
+          }
+        ],
+        "sub_score": [
+          {
+            "period-value": "1",
+            "score": "0"
+          },
+          {
+            "period-value": "2",
+            "score": "1"
+          }
+        ],
+        "stats_foul": {
+          "fouls_commited": "16",
+          "cautions_total": "4"
+        },
+        "team_stats_soccer": {
+          "stats-soccer-defensive": {
+            "shots-blocked": "5",
+            "goals-against-total": "4",
+            "interceptions": "6"
+          },
+          "line-formation": "4231",
+          "stats-soccer-offensive": {
+            "corner-kicks": "7",
+            "tackles-total": "15",
+            "passes-total": "323",
+            "tackles-lost": "10",
+            "shots-total": "16",
+            "tackles-won": "5",
+            "shots-on-goal-total": "3",
+            "free-kicks": "1"
+          },
+          "stats-soccer-foul": {
+            "fouls-commited": "16",
+            "cautions-total": "4"
+          }
+        },
+        "score": "1",
+        "score_opposing": "4",
+        "time_of_possession_percentage": "38.5",
+        "stats_defensive": {
+          "goals_against_total": "4",
+          "interceptions": "6",
+          "shots_blocked": "5"
+        },
+        "event_outcome": "loss",
+        "stats_offensive": {
+          "tackles_lost": "10",
+          "shots_on_goal_total": "3",
+          "tackles_total": "15",
+          "free_kicks": "1",
+          "corner_kicks": "7",
+          "tackles_won": "5",
+          "passes_total": "323",
+          "shots_total": "16"
+        }
+      },
+      "name": {
+        "abbrev": "CHI",
+        "full": "Chicago Fire",
+        "first": "Chicago Fire"
+      },
+      "assitant": [
+        
+      ]
+    }
+  }
+]
